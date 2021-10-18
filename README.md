@@ -26,9 +26,9 @@ the p-value = 0.06 tells us that there is no sufficient evidence to reject the n
 
 
 If we look at each lot individually, then we can conclude the following: 
-Lot 1  p-value = 1 there is no sufficient evidence to reject the null hypothesis.
-Lot 2  p-value = 0.06 there is no sufficient evidence to reject the null hypothesis.
-Lot 3  p-value = 0.04 there is  sufficient evidence to reject the null hypothesis. And if we compare the mean we can see that sample mean = 1496 which is different from the population mean = 1500.
+Lot 1 -> p-value = 1 there is no sufficient evidence to reject the null hypothesis.
+Lot 2 -> p-value = 0.06 there is no sufficient evidence to reject the null hypothesis.
+Lot 3 -> p-value = 0.04 there is  sufficient evidence to reject the null hypothesis. And if we compare the mean we can see that sample mean = 1496 which is different from the population mean = 1500.
 
 <img src="https://i.ibb.co/XYddw0b/3-2-T-test.png" alt="3-2-T-test" border="0"> 
 
